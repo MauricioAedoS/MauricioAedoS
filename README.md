@@ -1,6 +1,10 @@
 # Mauricio Aedo Sabugal
 
-![Mauricio Aedo Sabugal](https://pbs.twimg.com/profile_images/706511189573017601/gTpOZMic_400x400.jpg)
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_images/706511189573017601/gTpOZMic_400x400.jpg" 
+       alt="Mauricio Aedo Sabugal" 
+       style="border-radius: 50%;">
+</div>
 
 ## Bio 👋
 Ingeniero Civil en Informática de profesión💻, Androide Geek de corazón🤖. Mi combustible es el Ska🕺 y mis motores el Desarrollo de Software👨‍💻, Tecnología🛜 y Animé⛩️.
